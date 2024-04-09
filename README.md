@@ -9,4 +9,10 @@
    <img width="814" alt="Screenshot 2024-04-09 at 10 01 13" src="https://github.com/potterdaims/voice-over-bug/assets/166540161/f4892b27-5ea7-43ac-b001-85f56b0a6156">
    <img width="661" alt="Screenshot 2024-04-09 at 10 01 47" src="https://github.com/potterdaims/voice-over-bug/assets/166540161/a56f443c-7a69-4c64-9481-573b3071e5f4">
 
-   
+* SYMPTOM
+
+  Voice-over cannot expand the sub-menu
+
+* EXPECTED
+
+  Voice-over should expand the sub-menu
